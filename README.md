@@ -1,24 +1,18 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Rails Minimal API
+## How to create this repository
+```
+$ rails new rails-minimal-api --minimal --api -T
+```
+## How to use
+First, git clone, and bundle install.  
+```
+$ bundle install
+```  
+Secondly, start rails.  
+```
+$ rails new
+```
+Then, you can open app on your browser or curl.
+```
+$ curl http://localhost:3000  
+```
