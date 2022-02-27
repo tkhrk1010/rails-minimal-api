@@ -10,7 +10,7 @@ $ bundle install
 ```  
 Secondly, start rails.  
 ```
-$ rails new
+$ rails s
 ```
 Then, you can open app on your browser or curl.
 ```
